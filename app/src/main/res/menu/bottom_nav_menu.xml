@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_cars"
+        android:title="Cars"
+        android:icon="@drawable/sedan"/> <item
+    android:id="@+id/navigation_types"
+    android:title="Types"
+    android:icon="@drawable/suv"/>
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:title="Map"
+        android:icon="@android:drawable/ic_dialog_map"/>
+</menu>
